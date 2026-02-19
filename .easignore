@@ -1,0 +1,7 @@
+.git
+node_modules
+*.log
+.expo
+android
+ios
+credentials
